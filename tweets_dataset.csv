@@ -1,0 +1,11 @@
+text,sentiment
+"I love using this app, it's amazing!",positive
+This product made my day so much better!,positive
+"Just okay, nothing special.",neutral
+This product is terrible!,negative
+Had a great time with friends today!,positive
+Worst experience ever.,negative
+Feeling neutral about this.,neutral
+Absolutely fantastic service!,positive
+Not happy with the results.,negative
+The weather is perfect today!,positive
